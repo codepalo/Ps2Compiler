@@ -1,4 +1,4 @@
-# **PowerShell2CompilerCode**
+# **PowerShell2Compiler**
 
 Convert PowerShell to Compliable Code
 

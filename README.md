@@ -162,5 +162,4 @@ SetItemAttributes
 ## **Ps2Vb.exe** is the result of converting **ps2vb.ps1** and **ps2vbFunctions.psm1** to VB
 
 #
-#
-### [ Have a Pleasant Coding Day ]
+### [Have a Pleasant Coding Day]

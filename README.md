@@ -28,7 +28,7 @@ Provides an extendable path to compile most PowerShell code by converting code t
     ps2vb [psfilename]
 ```
 - Run ps2vb.exe from the folder where **[psfilename]** is located
-- **[psfilename]Ps2VbConfig.ps1** contains conversion configuration settings and is automatically created during the first run. It should be reviewed and changed if required.
+- **[psfilename]Ps2Vb.Config.ps1** contains conversion configuration settings and is automatically created during the first run. It should be reviewed and changed if required.
 
 
 ### Options
@@ -159,7 +159,7 @@ SetItemAttributes
 #
 # Eating Our Own Dog Food
 
-## **Ps2Vb.exe** is the result of converting **ps2vb.ps1** and **ps2vbFunctions.psm1** to VB
+## **Ps2Vb.exe** is the result of converting **ps2vb.ps1** and **ps2vbFunctions.psm1** to VB using Ps2Vb.exe
 
 #
 ### [Have a Pleasant Coding Day]

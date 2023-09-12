@@ -20,11 +20,11 @@ dotnet tool uninstall ps2vb --global
 ### Installation to local location
 
 ```text
-dotnet tool install ps2vb --global c:\ps2vb
+dotnet tool install ps2vb --tool-path c:\ps2vb
 
-dotnet tool update ps2vb --global c:\ps2vb
+dotnet tool update ps2vb --tool-path c:\ps2vb
 
-dotnet tool uninstall ps2vb --global c:\ps2vb
+dotnet tool uninstall ps2vb --tool-path c:\ps2vb
 
 setx PATH "%PATH%;C:\ps2vb"
 ```

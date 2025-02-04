@@ -211,4 +211,4 @@ Test-Path
 
 ### [Have a Pleasant Coding Day]
 
-Copyright (C) 2023. All Rights Reserved PaloByte
+Copyright (C) 2025. All Rights Reserved PaloByte

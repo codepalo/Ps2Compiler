@@ -1,4 +1,4 @@
-Copyright © 2023 PaloByte Software. All rights reserved.
+Copyright © 2025 PaloByte Software. All rights reserved.
 
 This software is licensed, not sold. This license grants you a non-exclusive, non-transferable, revocable, and limited right to use this software for your personal or internal business purposes only. You may not use this software for any other purpose, including but not limited to:
 
